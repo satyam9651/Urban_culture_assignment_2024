@@ -1,9 +1,9 @@
 
-# Ajargh Backend Assignment
+# Urban Culture Assignment
 
 ## Introduction
 
-This repository contains source code for the assignment given by Ajargh hiring team. 
+This repository contains source code for the assignment given by Urban Culture. 
 
 Name - Satyam Mishra \
 Email - mishrasatyam9651@gmail.com\
